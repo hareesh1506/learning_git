@@ -1,0 +1,49 @@
+DAY-1: Python Basics — Clean Learning Notes
+1. Introduction to Python
+Python is a high-level, interpreted programming language known for simplicity.
+Used in automation testing, API testing, ML, data analytics, web development, DevOps.
+2. How Python Runs Code
+Python uses an interpreter that executes code line-by-line.
+3. Setting Up Python
+1. Install Python
+2. Add to PATH
+3. Install VS Code
+4. Install Python extension
+5. Create .py file
+6. Run using: python file.py
+4. Variables
+Variables store values.
+Example:
+name = 'Harish'
+age = 25
+pi = 3.14
+is_active = True
+5. Data Types
+Basic: int, float, str, bool.
+Collections: list, tuple, set, dict.
+6. Comments
+# Single-line
+''' Multi-line comment '''
+7. Input / Output
+print('Hello')
+name = input('Enter name: ')
+age = int(input('Enter age: '))
+8. Type Casting
+int(), float(), str(), bool(), list()
+9. Operators
+Arithmetic: + - * / % // **
+Comparison: == != > < >= <=
+Logical: and or not
+10. String Operations
+text.upper(), text.lower(), text.find(), text.replace(), text[0:6]
+11. Practice Tasks
+Calculator, Introduction program, Type checker, Reverse string, Temperature converter.
+12. Mini Project: Student Profile Formatter
+name = input('Enter name: ')
+age = input('Enter age: ')
+course = input('Enter course: ')
+
+print('Student Profile:')
+print(f'Name: {name}')
+print(f'Age: {age}')
+print(f'Course: {course}')
