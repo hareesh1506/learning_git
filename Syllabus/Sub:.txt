@@ -1,0 +1,302 @@
+.
+
+📅 WEEK 1 — Python Foundations + Core Programming
+DAY 1 — Python Basics (Start Strong)
+✔ Concepts
+
+What is Python?
+
+Installation, Virtual Environment
+
+Python Execution Model
+
+Syntax, Variables
+
+Data Types → int, float, str, bool
+
+Type Casting
+
+Input & Output
+
+✔ Practice
+
+Calculator program
+
+String formatting
+
+Type conversions
+
+DAY 2 — Operators + Strings + Collections (Core Building)
+✔ Concepts
+
+Arithmetic, Comparison, Logical, Assignment operators
+
+String methods
+
+Slicing
+
+Lists → CRUD
+
+Tuples
+
+Sets
+
+✔ Practice
+
+Reverse string
+
+Remove duplicates from list
+
+Find min/max without using built-ins
+
+DAY 3 — Dictionaries + Loops + Conditions
+✔ Concepts
+
+if / elif / else
+
+for and while
+
+break, continue, pass
+
+Dictionary operations + nested dict
+
+✔ Practice
+
+Character frequency counter
+
+Convert 2 lists into dict
+
+Menu-driven program
+
+DAY 4 — Functions + Arguments + Scope
+✔ Concepts
+
+def, return values
+
+Positional, keyword, default arguments
+
+*args, **kwargs
+
+Lambda functions
+
+Map, Filter, Reduce
+
+✔ Practice
+
+Prime number checker
+
+Lambda sorting
+
+Word count function
+
+DAY 5 — File Handling + Error Handling
+✔ Concepts
+
+Open, Read, Write
+
+Context manager with open()
+
+JSON read/write
+
+Exception handling
+
+try, except, else, finally
+
+custom exceptions
+
+✔ Practice
+
+Log writer
+
+JSON parser
+
+Handle file-not-found gracefully
+
+DAY 6 — Modules + Packages + Virtual Environments
+✔ Concepts
+
+Create custom module
+
+Import module
+
+Inbuilt modules (os, sys, datetime, random, json)
+
+pip install packages
+
+✔ Practice
+
+Create your own utility package
+
+Use os to create directory structure
+
+DAY 7 — OOP (Object-Oriented Programming)
+✔ Concepts
+
+Class, Object
+
+Methods → instance, class, static
+
+Constructor
+
+Encapsulation
+
+Inheritance
+
+Polymorphism
+
+Abstraction
+
+✔ Practice
+
+Banking system OOP
+
+Employee class with inheritance
+
+Override methods
+
+📅 WEEK 2 — Advanced Python + QA Automation Concepts
+DAY 8 — Advanced OOP + Design Patterns
+✔ Concepts
+
+Magic methods
+
+Dunder methods
+
+__str__, __repr__
+
+Class decorators
+
+Singleton pattern
+
+Factory pattern
+
+✔ Practice
+
+Build Logger class using Singleton
+
+Write your own iterable class
+
+DAY 9 — Iterators + Generators + Decorators
+✔ Concepts
+
+Iterator protocol
+
+Generator functions (yield)
+
+Generator expressions
+
+Decorators
+
+Chaining decorators
+
+✔ Practice
+
+Create a custom generator
+
+Execution-time decorator
+
+Authentication decorator
+
+DAY 10 — Advanced Concepts
+✔ Concepts
+
+List / Dict Comprehensions
+
+Error handling best practices
+
+Regular expressions (regex)
+
+Context managers (custom)
+
+✔ Practice
+
+Complex list filtering
+
+Log parser using regex
+
+DAY 11 — Data Structures + Algorithms (Interview Essentials)
+✔ Concepts
+
+Stack using list
+
+Queue using deque
+
+Linked list basics
+
+Time complexity
+
+✔ Practice
+
+Balanced parentheses
+
+Search & sort basics
+
+DAY 12 — Python for QA Automation
+✔ Concepts
+
+Pytest framework basics
+
+Fixtures
+
+Parametrize
+
+Markers → smoke, regression
+
+Assertions
+
+✔ Practice
+
+Write 10 Pytest test cases
+
+Create fixture for setup/teardown
+
+DAY 13 — Selenium + Robot Framework Basics
+✔ Concepts
+Selenium:
+
+Locators
+
+Driver init
+
+Waits
+
+Page Object Model
+
+Robot Framework:
+
+Keywords
+
+Test suite structure
+
+Variables file
+
+Practice
+
+Basic login test
+
+Create robot test with custom keywords
+
+DAY 14 — Final Project + Interview Prep
+✔ Project
+
+Build one mini Python project:
+✔ Test automation framework skeleton
+✔ API testing using requests
+✔ Logging, reporting
+✔ Folder structure setup
+
+✔ Interview Topics Revision
+
+OOP
+
+Decorators
+
+Generators
+
+Pytest
+
+Selenium waits
+
+JSON parsing
+
+Exception handling
